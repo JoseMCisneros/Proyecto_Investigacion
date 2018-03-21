@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658880334221",
+    "firebase_url": "https://proyecto-investigacion-2aad3.firebaseio.com",
+    "project_id": "proyecto-investigacion-2aad3",
+    "storage_bucket": "proyecto-investigacion-2aad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658880334221:android:6a3248a538598c85",
+        "android_client_info": {
+          "package_name": "com.example.josecisneros.proyecto_investigacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658880334221-7mh5claqufat6r3l33dob4ajr6g54s8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcRph7eymXcs8XaldeeRLg-wqSZzyk04o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
