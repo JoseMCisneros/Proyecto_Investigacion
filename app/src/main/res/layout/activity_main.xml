@@ -40,13 +40,12 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text="Su Puta Madre"
+        android:text="PDF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.208"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnchoose"
-        app:layout_constraintVertical_bias="0.615" />
+        app:layout_constraintVertical_bias="0.066" />
 
     <Button
         android:id="@+id/btnupload"
